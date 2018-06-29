@@ -1,10 +1,9 @@
 # Skills
 
 # Education
-- skill:Dev Bootcamp
-  description:Dev Bootcamp is a 19-week intensive training program for web developers, rooted in learning full stack development skills and empathetic team cooperation. I am expected to graduate in the fall of 2016. The technical program specializes in Ruby, JavaScript, SQL, HTML and CSS, and emphasizes big picture application and design practices such as OO programing, MVC architecture, and test-driven development.
+- skill: Dev Bootcamp
+  description: Dev Bootcamp is a 19-week intensive training program for web developers, rooted in learning full stack development skills and empathetic team cooperation. I am expected to graduate in the fall of 2016. The technical program specializes in Ruby, JavaScript, SQL, HTML and CSS, and emphasizes big picture application and design practices such as OO programing, MVC architecture, and test-driven development.
 
 # Leadership
-- skill:Leadership
-  description:Director of Events - Hack Against Violence - A community hackathon with 90+ attendees and sponsors including Amazon, Pandora, #YesWeCode, and Ingenico Payments.
-Fundraised over $6,000 from corporate sponsors, coordinated panelists and judges, managed participants during event, coordinated workshops, and led communication with sponsors, caterers, facility management, and volunteers.
+- skill: Leadership
+  description: Director of Events - Hack Against Violence - A community hackathon with 90+ attendees and sponsors including Amazon, Pandora, #YesWeCode, and Ingenico Payments. Fundraised over $6,000 from corporate sponsors, coordinated panelists and judges, managed participants during event, coordinated workshops, and led communication with sponsors, caterers, facility management, and volunteers.
